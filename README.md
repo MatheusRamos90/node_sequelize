@@ -1,6 +1,6 @@
-## Node.js com Sequelize
+## Node.js com Sequelize ORM
 
-Conhecimentos abstraídos de estudos com [Sequelize ORM](https://sequelize.org/) através da [Rocketseat](https://rocketseat.com.br/)
+Conhecimentos abstraídos de estudos com [Sequelize ORM](https://sequelize.org/) através da [Rocketseat](https://rocketseat.com.br/).
 Um ótimo ORM que ajuda nas buscas, e alterações do banco de dados relacional (SQL).
 
 ## Comandos utilizados
